@@ -1,0 +1,78 @@
+.head{
+  background-color:rgba(128, 128, 128, 0.8);
+  position: fixed ;
+  width : 100% ;
+  top : 0% ;
+  height : 150 ;
+}
+
+
+.head-inner{
+  margin:0px;
+  display: flex;
+  justify-content:left;
+}
+
+.title{
+  padding-right : 20%;
+  padding-left : 15% ;
+}
+
+.logInfo{
+  display:flexbox;
+  justify-items: end;
+}
+
+.logoutButton{
+  padding:10px;
+  display:flex;
+  justify-content: end;
+}
+
+.postArea{
+  background-color: rgb(254, 142, 5);
+  padding-top : 10px ;
+  margin : 165px 20px 5px 5px ;
+}
+
+.app_head{
+  padding : 5px;
+  font-size : 20px ;
+}
+.logBar{
+  padding:0px;
+  margin:0px
+}
+
+.App_contents{
+  margin:5%
+}
+
+.post_name{
+  padding: 10px ;
+  display: flex ;
+  flex-direction: column;
+}
+
+.post_content{
+  padding:10px ;
+  display: flex ;
+  flex-direction: column;
+}
+
+.showPosts_on{
+  
+  padding: 5px;
+  margin: 10px;
+  background-color: beige;
+
+}
+
+.oneShowedPost{
+
+  margin : 5px ;
+  padding : 5px ;
+  background-color: rgb(234, 201, 160); 
+
+}
+

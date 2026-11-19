@@ -1,0 +1,15 @@
+
+.login-inner{
+    margin:150px 50px 50px 50px;
+    display : flex ;
+    flex-direction : column ; 
+    justify-content: center ;
+    height : 200px ;  
+    align-items: center ;
+    background-color:antiquewhite;
+    padding: 60px 30px ;
+}
+
+.login-content{
+    margin-bottom : 10px ;
+}
